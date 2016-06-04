@@ -1,0 +1,16 @@
+C:\Users\e168211\Documents\Visual Studio 2010\Projects\SQLHelper\SQLHelper\bin\Debug\SQLHelper.exe
+C:\Users\e168211\Documents\Visual Studio 2010\Projects\SQLHelper\SQLHelper\bin\Debug\SQLHelper.pdb
+C:\Users\e168211\Documents\Visual Studio 2010\Projects\SQLHelper\SQLHelper\obj\x86\Debug\SQLHelper.Properties.Resources.resources
+C:\Users\e168211\Documents\Visual Studio 2010\Projects\SQLHelper\SQLHelper\obj\x86\Debug\SQLHelper.csproj.GenerateResource.Cache
+C:\Users\e168211\Documents\Visual Studio 2010\Projects\SQLHelper\SQLHelper\obj\x86\Debug\SQLHelper.exe
+C:\Users\e168211\Documents\Visual Studio 2010\Projects\SQLHelper\SQLHelper\obj\x86\Debug\SQLHelper.pdb
+C:\Users\e168211\Documents\Visual Studio 2010\Projects\SQLHelper\SQLHelper\obj\x86\Debug\SQLHelper.SQLHelper.resources
+C:\Users\e168211\Documents\Visual Studio 2010\Projects\SQLHelper\SQLHelper\obj\x86\Debug\SQLHelper.csprojResolveAssemblyReference.cache
+C:\Users\Ethan\Documents\Visual Studio 2013\Projects\Projects2\Projects2\SQLHelper\SQLHelper\obj\x86\Debug\SQLHelper.pdb
+C:\Users\Ethan\Documents\Visual Studio 2013\Projects\Projects2\Projects2\SQLHelper\SQLHelper\bin\Debug\SQLHelper.exe
+C:\Users\Ethan\Documents\Visual Studio 2013\Projects\Projects2\Projects2\SQLHelper\SQLHelper\bin\Debug\SQLHelper.pdb
+C:\Users\Ethan\Documents\Visual Studio 2013\Projects\Projects2\Projects2\SQLHelper\SQLHelper\obj\x86\Debug\SQLHelper.csprojResolveAssemblyReference.cache
+C:\Users\Ethan\Documents\Visual Studio 2013\Projects\Projects2\Projects2\SQLHelper\SQLHelper\obj\x86\Debug\SQLHelper.SQLHelper.resources
+C:\Users\Ethan\Documents\Visual Studio 2013\Projects\Projects2\Projects2\SQLHelper\SQLHelper\obj\x86\Debug\SQLHelper.Properties.Resources.resources
+C:\Users\Ethan\Documents\Visual Studio 2013\Projects\Projects2\Projects2\SQLHelper\SQLHelper\obj\x86\Debug\SQLHelper.csproj.GenerateResource.Cache
+C:\Users\Ethan\Documents\Visual Studio 2013\Projects\Projects2\Projects2\SQLHelper\SQLHelper\obj\x86\Debug\SQLHelper.exe
